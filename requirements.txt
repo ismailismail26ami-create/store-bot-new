@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+libsql-client
+flask
